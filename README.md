@@ -1,3 +1,8 @@
-#AVL-tree C++
-#Project by Nishanth Gobi (Email : 'nish.professional@gmail.com') and Harikrishnan (Email: 'harikrishnan29042001@gmail.com')
-#AVL Tree implementation using iterative method covering basic Insert, Delete and Search operations. (The program is made using C++)
+# AVL tree
+
+AVL Tree implementation using iterative functions. The program covers basic Insert, Delete and Search operations. (The program is made using C++)
+
+# Authors
+Nishanth Gobi (https://github.com/Nishanth-Gobi)
+Harikrishnan (https://github.com/Harikrishnan2904)
+
